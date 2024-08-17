@@ -17,7 +17,7 @@ Jupyter Notebook or Jupyter Lab
 R (for unzipping and displaying the data)
 Installation
 Clone the Repository using the code below:
-git clone https://github.com/your-username/your-repo.git
+git clone (https://github.com/mahinmiyurcee/Module-2)
 Navigate to the Project Directory using the code below
 cd your-repo
 Install Required Python Packages
