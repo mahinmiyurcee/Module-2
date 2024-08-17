@@ -1,8 +1,8 @@
 ## Module-2
 
-#Salary Data Processing Project#
+#**Salary Data Processing Project**
 
-#Overview#
+#Overview
 This project involves processing and analyzing salary data for employees. The provided Jupyter Notebook demonstrates how to import data, process it, and handle errors. It also includes functionality to export employee details and instructions for using R to display the data.
 
 #Project Structure#
